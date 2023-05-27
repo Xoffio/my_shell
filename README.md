@@ -5,6 +5,9 @@ Settings of my personal shell
 - MacOS: [iTerm](https://iterm2.com/downloads.html)
 - Windows: [Windows Terminal](https://apps.microsoft.com/store/detail/windows-terminal/9N0DX20HK701)
 
+## Install Fonts
+- [FiraCode](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.1/FiraCode.zip)
+
 ## Install Nushell
 
 ```bash
