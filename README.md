@@ -20,7 +20,18 @@ cargo install nu
 
 ## Starship
 
+
 ```bash
+# Install it with cargo 
+cargo install starship --locked
+
+# Setup 
+mkdir ~/.cache/starship
+starship init nu | save -f ~/.cache/starship/init.nu
+
+# Add it to nushell
+echo "source ~/.cache/starship/init.nu" | save --append $nu.config-path
+
  ~/.config/starship.toml
 ```
 
