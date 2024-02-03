@@ -115,8 +115,7 @@ format = '[ $symbol ($version) ]($style)'
 
 [nodejs]
 symbol = ""
-style = "bg:#2c2c2c"
-format = '[ $symbol ($version) ]($style)'
+format = '[ $symbol ($version) ](bg:#2c2c2c fg:#cc6666)'
 
 [nim]
 symbol = " "
@@ -125,8 +124,7 @@ format = '[ $symbol ($version) ]($style)'
 
 [rust]
 symbol = ""
-style = "bg:#2c2c2c"
-format = '[ $symbol ($version) ]($style)'
+format = '[ $symbol ($version) ](bg:#2c2c2c fg:#D2691E)'
 
 [scala]
 symbol = " "
